@@ -1,0 +1,12 @@
+# ความลับ: API key กับ Telegram token
+.env
+
+# ความจำและประวัติแชตส่วนตัว (เก็บไว้เฉพาะไฟล์ตั้งต้น)
+brain/*
+!brain/profile.md
+!brain/notes/
+brain/notes/*
+!brain/notes/README.md
+
+__pycache__/
+*.pyc
